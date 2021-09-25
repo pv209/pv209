@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pv209" alt="pv209" /></a> </p>
 
-- 🔭 I’m currently working on [Recipes APP](https://github.com/tryber/sd-010-a-project-recipes-app/pull/88)
+- 🔭 I’m currently working on [Portifolio](https://github.com/pv209/Portifolio)
 
 - 🌱 I’m currently learning **banckend**
 
