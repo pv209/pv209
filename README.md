@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **banckend**
 
-- 👨‍💻 Portifólio [https://github.com/tryber/sd-010-a-cookmaster/pull/31](https://github.com/tryber/sd-010-a-cookmaster/pull/31)
+- 👨‍💻 Portifólio [link](https://pv209.herokuapp.com/)
 
 - 💬 Ask me about **react,javascript,html**
 
