@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pv209" alt="pv209" /></a> </p>
 
-- 🔭 I’m currently working on [CookMaster](https://github.com/tryber/sd-010-a-cookmaster/pull/31)
+- 🔭 I’m currently working on [DeliveryAPP](https://github.com/pv209/Delivery-APP)
 
-- 🌱 I’m currently learning **banckend**
+- 🌱 I’m currently learning **Phyton**
 
 - 👨‍💻 Portifólio [link](https://pv209.herokuapp.com/)
 
-- 💬 Ask me about **react,javascript,html**
+- 💬 Ask me about **react,javascript,html,MySQL,MongoDB,nodejs,express**
 
 - 📫 How to reach me **pvtrybe209@gmail.com**
 
