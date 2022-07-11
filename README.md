@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [DeliveryAPP](https://github.com/pv209/Delivery-APP)
 
-- 🌱 I’m currently learning **Phyton**
-
-- 👨‍💻 Portifólio [link](https://pv209.herokuapp.com/)
+- 🌱 I’m currently learning **Phyton*
 
 - 💬 Ask me about **react,javascript,html,MySQL,MongoDB,nodejs,express**
 
